@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" alt="Hey, I'm Paul" width="100%" />
+  <img src="banne.png" alt="Hey, I'm Paul" width="100%" />
 </div>
 # 👋 Hey, I'm Paul
 
