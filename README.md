@@ -28,3 +28,6 @@ I started learning Python to rebuild myself after heartbreak — and discovered 
 
 > “Growth isn’t always loud. Sometimes it’s a quiet commit at 2am.”
 # Paul-dev
+<div align="center">
+  <img src="banner.png" alt="Hey, I'm Paul" width="100%" />
+</div>
