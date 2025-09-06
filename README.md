@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="banner.png" alt="Hey, I'm Paul" width="100%" />
+</div>
 # 👋 Hey, I'm Paul
 
 I'm a self-taught Python developer from Nakuru, Kenya, blending technical skill with emotional depth. I build interactive tools, educational games, and personal growth apps that help people reflect, learn, and grow — just like I did.
@@ -28,6 +31,3 @@ I started learning Python to rebuild myself after heartbreak — and discovered 
 
 > “Growth isn’t always loud. Sometimes it’s a quiet commit at 2am.”
 # Paul-dev
-<div align="center">
-  <img src="banner.png" alt="Hey, I'm Paul" width="100%" />
-</div>
