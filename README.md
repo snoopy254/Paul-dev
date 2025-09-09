@@ -1,6 +1,9 @@
 <div align="center">
   <img src="images/banner.png" alt="Hey, I'm Paul" width="100%" />
 </div>
+<div align="center">
+  <img src="banner.png" alt="Hey, I'm Paul" width="100%" />
+</div>
 
 ![Banner](banner.png)
 
