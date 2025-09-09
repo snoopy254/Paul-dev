@@ -2,6 +2,8 @@
   <img src="images/banner.png" alt="Hey, I'm Paul" width="100%" />
 </div>
 
+![Banner](banner.png)
+
 # 👋 Hey, I'm Paul
 
 I'm a self-taught Python developer from Nakuru, Kenya, blending technical skill with emotional depth. I build interactive tools, educational games, and personal growth apps that help people reflect, learn, and thrive.
