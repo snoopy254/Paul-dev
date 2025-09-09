@@ -1,15 +1,8 @@
-<div align="center">
-  <img src="images/banner.png" alt="Hey, I'm Paul" width="100%" />
-</div>
-<div align="center">
-  <img src="banner.png" alt="Hey, I'm Paul" width="100%" />
-</div>
-
-![Banner](banner.png)
+![Hey, I'm Paul Banner](./banner.png)
 
 # 👋 Hey, I'm Paul
 
-I'm a self-taught Python developer from Nakuru, Kenya, blending technical skill with emotional depth. I build interactive tools, educational games, and personal growth apps that help people reflect, learn, and thrive.
+I'm a self-taught Python developer from Nakuru, Kenya, blending technical skill with emotional depth. I build interactive tools, educational games, and personal growth apps that help people reflect, learn, and grow—just.
 
 ## 🧠 What Drives Me
 I believe code can be more than functional — it can be *healing*. My projects often channel personal experiences into creative tools that spark insight and emotional growth.
@@ -27,7 +20,7 @@ I believe code can be more than functional — it can be *healing*. My projects 
 - Reflective writing and storytelling
 
 ## 🌱 My Journey
-I started learning Python to rebuild myself after heartbreak — and discovered a passion for creating tools that help others do the same. Every project I build is a step toward healing, growth, and purpose.
+I started learning Python to rebuild myself after heartbreak — and discovered a passion for creating tools that help others do the same. Every project I build is a step toward healing, growth, and helping others on their journeys.
 
 ## 📫 Let’s Connect
 - 📝 [The Self-Taught Man Blog](https://medium.com/@selftaughtman)
